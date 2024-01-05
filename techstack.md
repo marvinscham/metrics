@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 marvinscham/metrics is built on the following main stack:
+
 - [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
 - [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
 - [ExpressJS](http://expressjs.com/) – Microframeworks (Backend)
@@ -16,11 +17,13 @@ marvinscham/metrics is built on the following main stack:
 - [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 marvinscham/metrics is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/830/jest.png' alt='Jest'/> [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
 - <img width='25' height='25' src='https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png' alt='Node.js'/> [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
 - <img width='25' height='25' src='https://img.stackshare.io/service/1163/hashtag.png' alt='ExpressJS'/> [ExpressJS](http://expressjs.com/) – Microframeworks (Backend)
@@ -35,14 +38,15 @@ marvinscham/metrics is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/586/n4u37v9t_400x400.png' alt='Docker'/> [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [marvinscham/metrics](https://github.com/marvinscham/metrics)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|36<br/>Tools used|11/11/23 <br/>Report generated|
+|36<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -210,7 +214,7 @@ Full tech stack [here](/techstack.md)
 |[prismjs](https://www.npmjs.com/prismjs)|v1.28.0|04/23/22|dependabot[bot] |MIT|N/A|
 |[puppeteer](https://www.npmjs.com/puppeteer)|v15.5.0|07/25/22|dependabot[bot] |Apache-2.0|N/A|
 |[sanitize-html](https://www.npmjs.com/sanitize-html)|v2.7.0|02/08/22|dependabot[bot] |MIT|N/A|
-|[sharp](https://www.npmjs.com/sharp)|v0.30.7|07/01/22|lowlighter |Apache-2.0|N/A|
+|[sharp](https://www.npmjs.com/sharp)|v0.30.7|07/01/22|lowlighter |Apache-2.0|[](https://github.com/advisories/GHSA-54xq-cgqr-rpm3) (High)|
 |[simple-git](https://www.npmjs.com/simple-git)|v3.11.0|08/02/22|dependabot[bot] |MIT|[CVE-2022-25860](https://github.com/advisories/GHSA-9w5j-4mwv-2wj8) (Critical)<br/>[CVE-2022-25912](https://github.com/advisories/GHSA-9p95-fxvg-qgq2) (High)|
 |[svgo](https://www.npmjs.com/svgo)|v2.8.0|11/10/21|dependabot[bot] |MIT|N/A|
 |[vue](https://www.npmjs.com/vue)|v2.7.1|09/08/20|lowlighter |MIT|N/A|
@@ -218,4 +222,4 @@ Full tech stack [here](/techstack.md)
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
